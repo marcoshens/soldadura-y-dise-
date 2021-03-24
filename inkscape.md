@@ -22,3 +22,5 @@ el simbolo de la paloma de la paz y corazon que representa el amor
 ¿He sacado algo de este ejercicio?
 
 No
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo.svg)
