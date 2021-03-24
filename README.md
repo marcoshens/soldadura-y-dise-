@@ -1,1 +1,6 @@
-# soldadura-y-dise-
+# Soldadura y diseño
+
+
+Cosas de inkscape
+
+
