@@ -23,6 +23,19 @@ el simbolo de la paloma de la paz y corazon que representa el amor
 
 No
 
+# RASTERIZAR
+
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo.svg)
 
+# VECTORIZAR 
+
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/leon%20rosa.jpg.svg)
+
+# MODIFICAR RELLENO
+
+# MODIFICAR ESTILO DE TRAZO
+
+# MODIFICAR COLOR DE TRAZO
+
+![](https://user-images.githubusercontent.com/78345826/112464935-66732400-8d64-11eb-83fe-79256aab2c74.png)
+
