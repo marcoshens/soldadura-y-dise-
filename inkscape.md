@@ -45,5 +45,7 @@ No
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-24-22.png)
 
+# bézier
 
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/captura%20recta%20y%20curva.png)
 
