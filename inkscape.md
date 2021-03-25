@@ -24,3 +24,5 @@ el simbolo de la paloma de la paz y corazon que representa el amor
 No
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo.svg)
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/leon%20rosa.jpg.svg)
