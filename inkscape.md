@@ -43,5 +43,7 @@ No
 
 # MODIFICAR COLOR DE TRAZO
 
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-24-22.png)
+
 
 
