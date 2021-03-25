@@ -39,7 +39,7 @@ No
 
 # MODIFICAR ESTILO DE TRAZO
 
-![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-23-32.png)
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-43-55.png)
 
 # MODIFICAR COLOR DE TRAZO
 
