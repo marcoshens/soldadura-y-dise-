@@ -1,5 +1,11 @@
 # Inkscape
 
+## Índice
+
+ [Bézier](#bézier)
+ 
+ 
+
 
 ## Ejercicio de conceptos
 
@@ -23,17 +29,17 @@ el simbolo de la paloma de la paz y corazon que representa el amor
 
 No
 
-# RASTERIZAR
+## RASTERIZAR
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo.svg)
 
-# VECTORIZAR 
+## VECTORIZAR 
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/leon%20rosa.jpg.svg)
 
 ![](https://user-images.githubusercontent.com/78345826/112464935-66732400-8d64-11eb-83fe-79256aab2c74.png)
 
-# MODIFICAR RELLENO
+## MODIFICAR RELLENO
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-25%2012-23-11.png)
 
@@ -56,4 +62,5 @@ No
 
 # practica de mecanografia 
 
-![](
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2010-19-10.png)
+
