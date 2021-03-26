@@ -63,10 +63,10 @@ pongo esta imagen que aparte de ser mi diseño se nota todos los pixeles los sub
 
 # diseños
 
+Esta imagen la e cogido de internet porque el leopardo es mi animal favorito y me gustaria tenerlo imprimido
+
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dise%C3%B1o%20inks.jpg.svg)
 
 
-# practica de mecanografia 
 
-![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2010-19-10.png)
 
