@@ -31,7 +31,13 @@ No
 
 ## RASTERIZAR
 
-![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo.svg)
+pongo esta imagen que aparte de ser mi diseño se nota todos los pixeles los subire con pocos pixeles y despues con muchos y se vera claramente la diferencia
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/rasterizado%206%20pp.png)
+
+![](
+
+![](
 
 ## VECTORIZAR 
 
