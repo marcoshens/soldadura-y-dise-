@@ -7,4 +7,4 @@
 
 [Mecanografía](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Mecanografia.md#mecanograf%C3%ADa)
 
-[LAMPARA](#proceso-de-lámpara)
+[LAMPARA](https://github.com/marcoshens/soldadura-y-dise-/blob/main/proceso%20de%20lampara.md#proceso-de-l%C3%A1mpara)
