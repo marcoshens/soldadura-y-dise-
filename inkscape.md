@@ -35,9 +35,9 @@ pongo esta imagen que aparte de ser mi diseño se nota todos los pixeles los sub
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/rasterizado%206%20pp.png)
 
-![](
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/rasterizado%2066%20pp.png)
 
-![](
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/rasterizado2000%20pixeles%20pp.png)
 
 ## VECTORIZAR 
 
