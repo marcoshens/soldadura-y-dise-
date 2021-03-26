@@ -49,3 +49,6 @@ No
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/captura%20recta%20y%20curva.png)
 
+# diseños
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dise%C3%B1o%20inks.jpg.svg)
