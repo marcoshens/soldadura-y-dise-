@@ -69,6 +69,10 @@ Esta imagen la e cogido de internet porque el leopardo es mi animal favorito y m
 
 # logos
 
+logo 1
+
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2010-49-53.png)
+
+logo 2
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-23-04.png)
