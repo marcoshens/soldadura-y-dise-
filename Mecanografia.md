@@ -19,3 +19,5 @@ pruebas de texto de mecanografia:
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-03-26%2012-05-47.png)
 
 En este enlace no deja poner tildes: (https://www.ratatype.es/)
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-13%2010-19-38.png)
