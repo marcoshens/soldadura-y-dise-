@@ -9,4 +9,4 @@
 
 [LAMPARA](https://github.com/marcoshens/soldadura-y-dise-/blob/main/proceso%20de%20lampara.md#proceso-de-l%C3%A1mpara)
 
-[soldadura](https://github.com/marcoshens/soldadura-y-dise-/blob/main/soldadura.lm)
+[soldadura]()
