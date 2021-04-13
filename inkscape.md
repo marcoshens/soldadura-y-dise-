@@ -77,4 +77,8 @@ logo 2
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-08%2012-23-04.png)
 
+logo 3 
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/orno.svg)
+
 # prueba fresado
