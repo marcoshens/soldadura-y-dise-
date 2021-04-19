@@ -24,11 +24,15 @@
 
 ¿Qué imagen he escogido y por qué? 
 
+La del David con la cleta porque se le ve a el y a nosotros en el cristal de fondo
 
 ¿Qué características tiene la imagen?
 
+Que salimos todos 
+
 ¿Que hubo que hacer para que se pudiera cortar con láser?
 
+Poner la imagen en blanco y negro vectorizarla y hacerle una linea muy fina roja por el borde
 
 ## Viaje a la UPC
 
