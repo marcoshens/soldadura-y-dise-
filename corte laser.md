@@ -23,6 +23,9 @@
 
 ## Viaje a la UPC
 
+![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
+Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
+
 ## Corte láser
 
 ## Pieza cortada
