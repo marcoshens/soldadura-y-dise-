@@ -98,3 +98,14 @@ Las letras son unos codigos  entre 0 y 1 , en si es un caracter , y te lo transf
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-27-43.png)
 
+# SIGNIFICADOS 
+
+-Mapa de bits: Son imagenes echas por pixeles en formatos como jpg y png, tambien programas como photoshop y gimp.
+
+-Imagen vectorial: Son imagenes con fórmulas matematicas que generan formas.  
+
+-Modificar relleno:
+
+-Modificar estilo de trazo: 
+
+-Modificar color de trazo: 
