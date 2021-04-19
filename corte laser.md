@@ -21,12 +21,27 @@
 
 ## Diseño inicial para cortar con láser
 
+
+¿Qué imagen he escogido y por qué? 
+
+
+¿Qué características tiene la imagen?
+
+¿Que hubo que hacer para que se pudiera cortar con láser?
+
+
 ## Viaje a la UPC
+
+¿Qué impresiones tengo del sitio?¿Qué me ha gustado?
+
+¿Qué he visto?¿Qué he aprendido?
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
 Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
 
 ## Corte láser
+
+
 
 ## Pieza cortada
 
