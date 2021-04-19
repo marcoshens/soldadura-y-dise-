@@ -21,31 +21,35 @@
 
 ## Diseño inicial para cortar con láser
 
+![imagen](https://user-images.githubusercontent.com/78345826/115230487-b8fdf100-a114-11eb-93e1-e3191c58f39c.png)
+
 
 ¿Qué imagen he escogido y por qué? 
 
-La del David con la cleta porque se le ve a el y a nosotros en el cristal de fondo
+Elegi el leopardo porque es mi animal favorito y me gustaba como quedaba vectorizada.
 
 ¿Qué características tiene la imagen?
 
-Que salimos todos 
-
+Muchos puntos negros y lineas negras.
+ 
 ¿Que hubo que hacer para que se pudiera cortar con láser?
 
-Poner la imagen en blanco y negro vectorizarla y hacerle una linea muy fina roja por el borde
+Poner la imagen en blanco y negro vectorizarla y hacerle una linea muy fina roja por el borde.
 
 ## Viaje a la UPC
 
 ¿Qué impresiones tengo del sitio?¿Qué me ha gustado?
 
+La impresion que tube es que tenian muchas maqunas, me gusto ver las maquinas en accion.
+
 ¿Qué he visto?¿Qué he aprendido?
+
+He visto una fresadora y una cortadora laser,he aprendido a usar la cortadora laser.
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
 Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
 
 ## Corte láser
-
-
 
 ## Pieza cortada
 
