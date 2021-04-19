@@ -102,9 +102,6 @@ Diferentes tipos de fresas y brocas para usar con la fresadora. Como en la image
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_094510.jpg)
 
-![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
-Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
-
 # TIPOGRAFÍA
 son los diferentes estilos o tipos de letras que podemos elegir al hacer un diseño o escribir un texto.
 Estos son los tipos de tipografia mas utilizados:
