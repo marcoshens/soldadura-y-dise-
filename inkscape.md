@@ -81,4 +81,20 @@ logo 3
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/orno.svg)
 
+# TIPOGRAFÍA
+son los diferentes estilos o tipos de letras que podemos elegir al hacer un diseño o escribir un texto.
+Estos son los tipos de tipografia mas utilizados:
+    Sans Serif
+    Brutalism
+    Helvetica
+    Garamond
+    Trajan
+    Futura
+    Bickham script pro
+    Bodoni
+    
+ Cuando te descargas una fuente tipografica, la sueles descargar en pdf, es un archivo muy pequeño y las instalas en un archivo separado.
+Las letras son unos codigos  entre 0 y 1 , en si es un caracter , y te lo transforma en una forma de letra que tu marcas, echas entre puntos, curvas y letras , que se le llama pasar textos a contornos.   
+
+![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/Captura%20de%20pantalla%20de%202021-04-19%2010-27-43.png)
 
