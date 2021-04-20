@@ -8,7 +8,7 @@ He aprendido a soldar y la verdad que no era tan dificil como pensaba tienes que
 
 eñ codigo que he puesto es este:
 
-``` C+++
+``` C++
 const int LED=13;
 const int BOTON=7;
 int val;
