@@ -6,7 +6,7 @@ He aprendido a soldar y la verdad que no era tan dificil como pensaba tienes que
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/pizarra.jpeg)
 
-eñ codigo que he puesto es este:
+el codigo que he puesto es este:
 
 ``` C++
 const int LED=13;
