@@ -89,6 +89,8 @@ logo 3
 
 ![imagen](https://user-images.githubusercontent.com/78345826/115838654-3463e900-a41a-11eb-8fc2-951b2c04aa18.png)
 
+![imagen](https://user-images.githubusercontent.com/78345826/115839133-a3d9d880-a41a-11eb-863d-35c04413db6d.png)
+
 # corte laser
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
