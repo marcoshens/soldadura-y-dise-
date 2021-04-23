@@ -25,3 +25,5 @@ else { digitalWrite(LED,LOW);
 }
 }
 ```
+
+![imagen](https://user-images.githubusercontent.com/78345826/115833708-a6393400-a414-11eb-8bdc-5d70d5b9f148.png)
