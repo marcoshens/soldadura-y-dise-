@@ -53,6 +53,8 @@ Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
 
 ## Pieza cortada
 
+![imagen](https://user-images.githubusercontent.com/78345826/115834113-2364a900-a415-11eb-85cd-a034bfaa3b3a.png)
+
 ## Piezas adicionales
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
