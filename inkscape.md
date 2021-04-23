@@ -1,4 +1,4 @@
-# Inkscape
+# Inkscape tragando polla
 
 ## Índice
 
