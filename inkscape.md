@@ -87,6 +87,10 @@ logo 3
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/orno.svg)
 
+logo 4
+
+![imagen](https://user-images.githubusercontent.com/78345826/115842082-c3becb80-a41d-11eb-8171-ff2e9638597a.png)
+
 logo 5
 
 ![imagen](https://user-images.githubusercontent.com/78345826/115839133-a3d9d880-a41a-11eb-863d-35c04413db6d.png)
