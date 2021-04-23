@@ -16,4 +16,4 @@ Aqui esta el bordecito
 
 problema 2 
 ![imagen](https://user-images.githubusercontent.com/78345826/115864360-050fa500-a437-11eb-9256-13c416acd97a.png)
-
+![imagen](https://user-images.githubusercontent.com/78345826/115864513-3a1bf780-a437-11eb-91f3-cd9385cab0cb.png)
