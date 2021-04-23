@@ -15,4 +15,5 @@ Aqui esta el bordecito
 300 ppp
 
 problema 2 
-![imagen](https://user-images.githubusercontent.com/78345826/115863975-87e43000-a436-11eb-8076-b632b1389ff9.png)
+![imagen](https://user-images.githubusercontent.com/78345826/115864360-050fa500-a437-11eb-9256-13c416acd97a.png)
+
