@@ -87,6 +87,8 @@ logo 3
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/orno.svg)
 
+![imagen](https://user-images.githubusercontent.com/78345826/115838654-3463e900-a41a-11eb-8fc2-951b2c04aa18.png)
+
 # corte laser
 
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_095508.jpg)
