@@ -10,6 +10,5 @@ El nombre en azul como pide el examen y el color del azul el que nosotros queram
 Ya esta puesto el tamaño de 60mm x 60mm
 ![imagen](https://user-images.githubusercontent.com/78345826/115861818-91b86400-a433-11eb-9a7f-c21e890ad47b.png)
 Aqui esta el bordecito
-
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo%20ex.svg)
 300 ppp
