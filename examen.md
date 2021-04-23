@@ -13,3 +13,6 @@ Aqui esta el bordecito
 
 ![](https://github.com/marcoshens/soldadura-y-dise-/blob/main/dibujo%20ex.svg)
 300 ppp
+
+problema 2 
+![imagen](https://user-images.githubusercontent.com/78345826/115863975-87e43000-a436-11eb-8076-b632b1389ff9.png)
