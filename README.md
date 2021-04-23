@@ -14,3 +14,5 @@
 [corte lase](https://github.com/marcoshens/soldadura-y-dise-/blob/main/corte%20laser.md)
 
 [fresado](https://github.com/marcoshens/soldadura-y-dise-/blob/main/fresado.md)
+
+[Examen](https://github.com/marcoshens/soldadura-y-dise-/blob/main/examen.md)
