@@ -49,8 +49,6 @@ He visto una fresadora y una cortadora laser,he aprendido a usar la cortadora la
 ![](https://github.com/Jsamapro/Soldadura-y-diseno/blob/main/IMG_20210416_093158.jpg)
 Aqui David nos estaba enseñando las instalaciones de la UPC por fuera.
 
-## Corte láser
-
 ## Pieza cortada
 
 ![imagen](https://user-images.githubusercontent.com/78345826/115834113-2364a900-a415-11eb-85cd-a034bfaa3b3a.png)
