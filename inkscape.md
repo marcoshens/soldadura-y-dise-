@@ -45,9 +45,11 @@ pongo esta imagen que aparte de ser mi diseño se nota todos los pixeles los sub
 
 ![](https://user-images.githubusercontent.com/78345826/112464935-66732400-8d64-11eb-83fe-79256aab2c74.png)
 
-![imagen](https://user-images.githubusercontent.com/78345826/115833216-10050e00-a414-11eb-9ada-77ca8c615dc1.png)
+![imagen](https://user-images.githubusercontent.com/78345826/115833378-43e03380-a414-11eb-91ca-7ae110d25716.png)
 
-![imagen](https://user-images.githubusercontent.com/78345826/115833246-185d4900-a414-11eb-9730-513aa042d469.png)
+![imagen](https://user-images.githubusercontent.com/78345826/115833416-5195b900-a414-11eb-85e6-205beb540ab6.png)
+
+![imagen](https://user-images.githubusercontent.com/78345826/115833467-62462f00-a414-11eb-95f9-b10331dad703.png)
 
 ## MODIFICAR RELLENO
 
