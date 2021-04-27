@@ -3,10 +3,7 @@
 [binario prueba](https://github.com/marcoshens/soldadura-y-dise-/blob/main/binario_prueba_marcos.ino)
 
 ### binario final
-
-//*  Autore: Alba
-//*  Fecha: 6/4/2021
-
+``` C++
 
 int pinBotones[] = {2,3,4,5,6};
 const int numeroBotones = 5;
@@ -43,3 +40,4 @@ numero = numero + 16*estadoBoton5;
   Serial.println(numero);
   delay(200);
 }
+```
