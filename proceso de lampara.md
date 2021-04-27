@@ -1,4 +1,4 @@
-# Proceso de Lámpara
+# Proyecto de Lámpara
 
 ## Búsqueda de diseños
 
